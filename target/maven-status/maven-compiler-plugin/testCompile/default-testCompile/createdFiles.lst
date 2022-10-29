@@ -1,0 +1,4 @@
+Order\GetOrdersListTest.class
+Courier\AuthorizationCourierTest.class
+Courier\CreateCourierTest.class
+Order\CreateOrderTest.class
